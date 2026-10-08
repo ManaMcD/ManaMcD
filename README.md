@@ -23,6 +23,6 @@ I aim to create maps that communicate clearly, and approach data the way a natur
 
 ### 💙 Find me
 - [LinkedIn](https://www.linkedin.com/in/ejmcdani/)
-- [stormscribe.fun](https://stormscribe.fun)
+- [Facebook](https://www.facebook.com/ejmcdani)
 
 *Seeking the balance, working the science.* 🌀

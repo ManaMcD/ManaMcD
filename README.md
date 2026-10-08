@@ -21,7 +21,7 @@ I aim to create maps that communicate clearly, and approach data the way a natur
 - **AI:** LLM-assisted workflows · deep learning in ArcGIS Pro · self-hosted models
 - **Design:** ColorBrewer · Adobe Photoshop · accessible, colorblind-friendly palettes
 
-### 🌩️ Find me
+### 💙 Find me
 - [LinkedIn](https://www.linkedin.com/in/ejmcdani/)
 - [stormscribe.fun](https://stormscribe.fun)
 
